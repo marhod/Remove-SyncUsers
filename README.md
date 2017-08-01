@@ -15,5 +15,7 @@ EXAMPLE
 Load this file into your PowerShell session and then use it as follows :
 
 import-module msonline
+
 Connect-msolservice
+
 Remove-SyncUsers
